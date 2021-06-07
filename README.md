@@ -16,3 +16,13 @@ I have added a mainwindow in which there are vaious buttons to navigate through 
 
 Additionals:I have added GUI which is very user-friendly,easy to use and understand.I have added the parameters(job title,skills,qualifications,job description,experience,last date to apply and links) which are displayed when you search any job and city. If you enter something which is vague and invald, a popup message is displayed.
 
+
+
+
+https://user-images.githubusercontent.com/82439481/121021615-3104a100-c7bf-11eb-9ee5-5dbaf247b748.mp4
+
+
+https://user-images.githubusercontent.com/82439481/121021674-41b51700-c7bf-11eb-925e-b5383fac4a07.mp4
+
+
+
